@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+  background-image: url("5.jpg");
+}
+.icon{
+
+  width: 35%;
+  height:25%;
+}
+
+.icon1{
+  width: 10%;
+  height:5%;
+  
+}
+
+.footer{
+	text-align:center;
+	color :#004d4d;
+	
+}
